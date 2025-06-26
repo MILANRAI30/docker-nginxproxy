@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.env
+
+# Go
+*.exe
+*.out
+*.test
+
+# Logs
+*.log
+
+# Docker & Build
+*.zip
+docker-compose.override.yml
+
+# System & IDE
+.DS_Store
+.idea/
+.vscode/
